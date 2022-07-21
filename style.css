@@ -1,0 +1,21 @@
+*
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    widht:50%;
+    height:100%;
+    margin: 0px auto;
+}
+
+div > img {
+    widht:50%;
+    height: 100;
+    margin: 0px auto;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
